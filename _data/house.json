@@ -1,0 +1,103 @@
+{	
+		
+		"genre":[
+			{
+				"year":"1970",
+				"sName":"Disco",
+				"family":"Disco",
+				"name":"Disco",
+				"alias":"Disco",
+				"description":"Here's some words on disco",
+				"related":
+					{
+					"1":"New Wave",
+					"2":"Classic"
+					}
+
+			},
+			{
+				"year":"1970",
+				"sName":"Dub",
+				"family":"",
+				"name":"Dub",
+				"alias":"Dub House",
+				"description":"Here's some words on Dub",
+				"related":
+					{
+					"1":"Classic",
+					"2":"Garage"
+					}
+
+			},
+			{
+				"year":"1980",
+				"sName":"New Wave",
+				"family":"Disco",
+				"name":"New Wave",
+				"alias":"New Wave",
+				"description":"Here's some words on New Wave",
+				"related":
+					{
+					"1":"Disco"
+					}
+
+			},
+			{
+				"year":"1980",
+				"sName":"Italo",
+				"family":"Disco",
+				"name":"Italo Disco",
+				"alias":"Italo Disco",
+				"description":"Here's some words on New Wave",
+				"related":
+					{
+					"1":"Disco"
+					}
+
+			},
+			{
+				"year":"1980",
+				"sName":"SynthPop",
+				"family":"Disco",
+				"name":"Synth Pop",
+				"alias":"The 80s",
+				"description":"Meow Meow meow",
+				"related":
+					{
+					"1":"New Wave",
+					"2":"Italo"
+					}
+
+			},
+			{
+				"year":"1980",
+				"sName":"Classic",
+				"family":"Chicago",
+				"name":"Chicago House",
+				"alias":"",
+				"description":"Meow Meow meow",
+				"related":
+					{
+					"1":"New Wave",
+					"2":"Italo"
+					}
+
+			},
+			{
+				"year":"1990",
+				"sName":"Eurodance",
+				"family":"EuroPop",
+				"name":"Eurodance",
+				"alias":"Europop",
+				"description":"Meow Meow meow",
+				"related":
+					{
+					"1":"Techno Dance",
+					"2":"Happy",
+					"3":"Nu Italo"
+					}
+
+			}
+
+		]
+}

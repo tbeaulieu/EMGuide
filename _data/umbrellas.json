@@ -1,0 +1,32 @@
+{
+	"category":[
+		{
+			"umb_title":"house",
+			"bkg_color":"#007825"
+		},
+		{
+			"umb_title":"trance",
+			"bkg_color":"#002f99"
+		},
+		{
+			"umb_title":"techno",
+			"bkg_color":"#ff9c00"
+		},
+		{
+			"umb_title":"breakbeat",
+			"bkg_color":"#7a0099"
+		},
+		{
+			"umb_title":"jungle",
+			"bkg_color":"#990016"
+		},
+		{
+			"umb_title":"hardcore",
+			"bkg_color":"#f6ff00"
+		},
+		{
+			"umb_title":"downtempo",
+			"bkg_color":"#249edd"
+		}
+	]
+}

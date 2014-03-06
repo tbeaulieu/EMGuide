@@ -1,0 +1,185 @@
+{	
+		
+		"genre":[
+			{
+				"year":"1980",
+				"sName":"Classic",
+				"family":"Detroit",
+				"name":"Classic Techno",
+				"alias":"Detroit Techno",
+				"description":"Here's some words on classic techno",
+				"related":
+					{
+					"1":"ACID"
+					}
+
+			},
+			{
+				"year":"1980",
+				"sName":"Detroit",
+				"family":"Detroit",
+				"name":"Detroit Techno",
+				"alias":"Detroit Techno",
+				"description":"Here's some words on Detroit techno",
+				"related":
+					{
+					"1":"ACID"
+					}
+
+			},
+			{
+				"year":"1980",
+				"sName":"Euro",
+				"family":"Detroit",
+				"name":"Detroit House",
+				"alias":"Detroit Techno",
+				"description":"Here's some words on Detroit House",
+				"related":
+					{
+					"1":"ACID",
+					"2":"Detroit Techno"
+					}
+
+			},
+			{
+				"year":"1980",
+				"sName":"Detroit House",
+				"family":"Detroit",
+				"name":"Detroit House",
+				"alias":"Detroit Techno",
+				"description":"Here's some words on Detroit House",
+				"related":
+					{
+					"1":"ACID",
+					"2":"Detroit Techno"
+					}
+
+			},
+			{
+				"year":"1980",
+				"sName":"VGM",
+				"family":"",
+				"name":"Video Game Music",
+				"alias":"Nofriendo",
+				"description":"Here's some words on Detroit House",
+				"related":
+					{
+					"1":"CASIOCORE"
+					}
+
+			},
+			
+			{
+				"year":"1990",
+				"sName":"ACID",
+				"family":"",
+				"name":"ACID SHIT",
+				"alias":"Detroit Techno",
+				"description":"Here's some words on Detroit House",
+				"related":
+					{
+					"1":"HARD ACID",
+					"2":"Detroit"
+					}
+
+			},
+			{
+				"year":"1990",
+				"sName":"HARD ACID",
+				"family":"Detroit",
+				"name":"Detroit House",
+				"alias":"Detroit Techno",
+				"description":"Here's some words on Detroit House",
+				"related":
+					{
+					"1":"ACID",
+					"2":"Detroit Techno"
+					}
+
+			},
+			{
+				"year":"1990",
+				"sName":"DEEP",
+				"family":"Detroit",
+				"name":"Deep Techno",
+				"alias":"Detroit Techno",
+				"description":"Here's some words on Detroit House",
+				"related":
+					{
+					"1":"Minimal"
+					}
+
+			},
+			{
+				"year":"1990",
+				"sName":"MINIMAL",
+				"family":"Detroit",
+				"name":"Detroit House",
+				"alias":"Detroit Techno",
+				"description":"Here's some words on Detroit House",
+				"related":
+					{
+					"1":"ACID",
+					"2":"Detroit Techno"
+					}
+
+			},
+			{
+				"year":"1990",
+				"sName":"Experimental",
+				"family":"Detroit",
+				"name":"Minimal Techno",
+				"alias":"Detroit Techno",
+				"description":"Here's some words on Detroit House",
+				"related":
+					{
+					"1":"Minimal"
+					}
+
+			},
+			{
+				"year":"2000",
+				"sName":"schranz",
+				"family":"Detroit",
+				"name":"Detroit House",
+				"alias":"Detroit Techno",
+				"description":"Here's some words on Detroit House",
+				"related":
+					{
+					"1":"ACID",
+					"2":"Detroit Techno"
+					}
+
+			},
+			{
+				"year":"2010",
+				"sName":"NEW ACID",
+				"family":"Detroit",
+				"name":"Detroit House",
+				"alias":"Detroit Techno",
+				"description":"Here's some words on Detroit House",
+				"related":
+					{
+					"1":"ACID",
+					"2":"Detroit Techno"
+					}
+
+			},
+			{
+				"year":"2010",
+				"sName":"NEW ACID TWO",
+				"family":"Detroit",
+				"name":"Detroit House",
+				"alias":"Detroit Techno",
+				"description":"Here's some words on Detroit House",
+				"related":
+					{
+					"1":"ACID",
+					"2":"Detroit Techno"
+					}
+
+			}
+
+		]			
+						
+}

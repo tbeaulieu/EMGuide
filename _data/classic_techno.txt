@@ -1,0 +1,15 @@
+{	
+		
+		"umbrella":"Techno",
+		"sName":"Classic",
+		"family":"Detroit",
+		"name":"Classic Techno",
+		"alias":"Detroit Techno",
+		"description":"Here's some words on classic techno",
+		"related":
+			{
+			"1":"ACID"
+			}
+						
+						
+}

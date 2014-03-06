@@ -1,0 +1,21 @@
+{	
+	"genre":"TECHNO":[
+			"years": "1980": {
+					"sName":"Techno":{
+						"family":"Detroit",
+						"name":"Classic Techno",
+						"alias":"Detroit Techno",
+						"description":"Here's some words on classic techno",
+						"related":"ACID"
+					},
+					"SName":"Euro":{
+						"family":"Detroit",
+						"name":"Euro Techno",
+						"alias":"Meow Techno",
+						"description":"Here's some words on euro techno",
+						"related":"ACID"
+					}
+
+				},
+			]
+}
