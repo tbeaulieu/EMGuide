@@ -82,6 +82,7 @@ body{
 
 .subgenre_btn{
     border-radius:3px;
+    border:2px solid #000;
     color:#000;
     background: #cedce7;
     background: -moz-linear-gradient(top, #cedce7 0%, #596a72 100%);
