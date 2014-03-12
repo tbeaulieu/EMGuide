@@ -48,11 +48,23 @@ function buildPage(){
 function prepButtons(){
 	$(document).on('click', genreButton, function(event){
 		event.preventDefault();
-		console.log('der');
 		if(!$(this).hasClass('active')){
+			//LET'S GO MAKE SOME BUTTONS THAT WORK HARD OOOH YEAH
 			$(genreButton).removeClass('active');
 			$(this).toggleClass('active');
+			var new_umbrella = data_path+$(this).closest('.genre_container').attr('class').split("genre_container ")[1]+'.json'; //A little awkward but it works.
+			buildGenreDetail(new_umbrella, $(this).attr('rel'));
 		}
+
 	});
 
+}
+
+function buildGenreDetail(genre_path, genre_rel){
+	$.getJSON(genre_path, function(data){
+		$('.genre_drop h3').text(data.genre[genre_rel].name);
+		$('.genre_drop h4').text(data.genre[genre_rel].alias);
+		$('.genre_drop p').text(data.genre[genre_rel].description);
+
+	});
 }
